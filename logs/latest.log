@@ -1,102 +1,105 @@
-[00:26:09] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[00:26:09] [Render thread/INFO]: Setting user: bippakun
-[00:26:09] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
-[00:26:11] [Render thread/INFO]: Narrator library for x64 successfully loaded
-[00:26:11] [Render thread/INFO]: Reloading ResourceManager: Default
-[00:26:15] [Render thread/INFO]: OpenAL initialized.
-[00:26:15] [Render thread/INFO]: Sound engine started
-[00:26:15] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
-[00:26:16] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
-[00:26:16] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[00:26:16] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[00:26:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[00:26:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[00:26:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[00:26:16] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
-[00:26:16] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[00:26:16] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[00:26:22] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:26:22] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:26:22] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:26:22] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:26:22] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:26:22] [Render thread/INFO]: Reloading ResourceManager: Default
-[00:26:22] [Render thread/INFO]: Loaded 7 recipes
-[00:26:22] [Render thread/INFO]: Loaded 927 advancements
-[00:26:23] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[00:26:23] [Server thread/INFO]: Starting integrated minecraft server version 1.16.3
-[00:26:23] [Server thread/INFO]: Generating keypair
-[00:26:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:26:24] [Render thread/INFO]: スポーン地点を準備中：0%
-[00:26:24] [Render thread/INFO]: スポーン地点を準備中：0%
-[00:26:25] [Render thread/INFO]: スポーン地点を準備中：86%
-[00:26:25] [Render thread/INFO]: Time elapsed: 1070 ms
-[00:26:25] [Server thread/INFO]: Changing view distance to 7, from 10
-[00:26:26] [Server thread/INFO]: bippakun[local:E:550cc1c8] logged in with entity id 111 at (231.49954263705348, 151.46642819202958, 295.85039572668444)
-[00:26:26] [Server thread/INFO]: bippakun がゲームに参加しました
-[00:26:26] [Server thread/INFO]: Saving and pausing game...
-[00:26:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[00:26:26] [Render thread/INFO]: Loaded 114 advancements
-[00:26:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[00:26:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[00:27:22] [Server thread/INFO]: Saving and pausing game...
-[00:27:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[00:27:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[00:27:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[00:27:29] [Server thread/INFO]: Saving and pausing game...
-[00:27:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[00:27:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[00:27:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[01:19:40] [Server thread/INFO]: Saving and pausing game...
-[01:19:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[01:19:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[01:19:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[01:36:29] [Server thread/INFO]: Saving and pausing game...
-[01:36:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[01:36:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[01:36:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[02:11:27] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
-[02:53:53] [Server thread/INFO]: Saving and pausing game...
-[02:53:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[02:53:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[02:53:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[03:01:52] [Server thread/INFO]: Saving and pausing game...
-[03:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[03:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[03:01:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[03:02:44] [Server thread/INFO]: Saving and pausing game...
-[03:02:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[03:02:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[03:02:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[03:02:52] [Server thread/INFO]: Saving and pausing game...
-[03:02:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[03:02:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[03:02:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[03:05:14] [Server thread/INFO]: Saving and pausing game...
-[03:05:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[03:05:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[03:05:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[03:07:57] [Server thread/INFO]: Saving and pausing game...
-[03:07:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[03:07:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[03:07:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[03:14:44] [Server thread/INFO]: Saving and pausing game...
-[03:14:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[03:14:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[03:14:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[03:14:45] [Server thread/INFO]: bippakun lost connection: 切断されました
-[03:14:45] [Server thread/INFO]: bippakun がゲームを退出しました
-[03:14:45] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[03:14:45] [Server thread/INFO]: Stopping server
-[03:14:45] [Server thread/INFO]: Saving players
-[03:14:45] [Server thread/INFO]: Saving worlds
-[03:14:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
-[03:14:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (わーるど): All chunks are saved
-[03:14:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
-[03:14:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:14:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
-[03:14:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:14:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (わーるど): All chunks are saved
-[03:14:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:14:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:14:47] [Render thread/INFO]: Stopping!
+[00:15:25] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[00:15:25] [Render thread/INFO]: Setting user: bippakun
+[00:15:25] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[00:15:27] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[00:15:27] [Render thread/INFO]: Reloading ResourceManager: Default
+[00:15:32] [Render thread/INFO]: OpenAL initialized.
+[00:15:32] [Render thread/INFO]: Sound engine started
+[00:15:32] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[00:15:33] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[00:15:33] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[00:15:33] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[00:15:33] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[00:15:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[00:15:33] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[00:15:33] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[00:15:33] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[00:15:33] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[00:15:41] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:15:41] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:15:41] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:15:41] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:15:41] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:15:41] [Render thread/INFO]: Reloading ResourceManager: Default
+[00:15:42] [Render thread/INFO]: Loaded 7 recipes
+[00:15:42] [Render thread/INFO]: Loaded 927 advancements
+[00:15:42] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[00:15:42] [Server thread/INFO]: Starting integrated minecraft server version 1.16.3
+[00:15:42] [Server thread/INFO]: Generating keypair
+[00:15:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:15:43] [Render thread/INFO]: スポーン地点を準備中：0%
+[00:15:43] [Render thread/INFO]: スポーン地点を準備中：0%
+[00:15:43] [Render thread/INFO]: Time elapsed: 768 ms
+[00:15:43] [Server thread/INFO]: Changing view distance to 7, from 10
+[00:15:44] [Server thread/INFO]: bippakun[local:E:f0afeea9] logged in with entity id 109 at (234.1878987697015, 118.2978810073813, 255.49889863915405)
+[00:15:44] [Server thread/INFO]: bippakun がゲームに参加しました
+[00:15:44] [Render thread/INFO]: Loaded 114 advancements
+[00:15:44] [Server thread/INFO]: Saving and pausing game...
+[00:15:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
+[00:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
+[00:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
+[00:40:28] [Server thread/INFO]: Saving and pausing game...
+[00:40:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
+[00:40:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
+[00:40:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
+[00:40:29] [Server thread/INFO]: bippakun lost connection: 切断されました
+[00:40:29] [Server thread/INFO]: bippakun がゲームを退出しました
+[00:40:29] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:40:29] [Server thread/INFO]: Stopping server
+[00:40:29] [Server thread/INFO]: Saving players
+[00:40:29] [Server thread/INFO]: Saving worlds
+[00:40:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
+[00:40:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (わーるど): All chunks are saved
+[00:40:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
+[00:40:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:40:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
+[00:40:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:40:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (わーるど): All chunks are saved
+[00:40:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:40:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:40:34] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:40:34] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:40:34] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:40:34] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:40:34] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:40:34] [Render thread/INFO]: Reloading ResourceManager: Default
+[00:40:34] [Render thread/INFO]: Loaded 7 recipes
+[00:40:34] [Render thread/INFO]: Loaded 927 advancements
+[00:40:34] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[00:40:34] [Server thread/INFO]: Starting integrated minecraft server version 1.16.3
+[00:40:34] [Server thread/INFO]: Generating keypair
+[00:40:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:40:35] [Render thread/INFO]: スポーン地点を準備中：0%
+[00:40:35] [Render thread/INFO]: Time elapsed: 407 ms
+[00:40:35] [Server thread/INFO]: Changing view distance to 7, from 10
+[00:40:35] [Server thread/INFO]: bippakun[local:E:5eda4932] logged in with entity id 6564 at (231.72296909764447, 141.61494343174178, 299.4050504437162)
+[00:40:35] [Server thread/INFO]: bippakun がゲームに参加しました
+[00:40:35] [Server thread/INFO]: Saving and pausing game...
+[00:40:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
+[00:40:35] [Render thread/INFO]: Loaded 114 advancements
+[00:40:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
+[00:40:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
+[00:40:40] [Server thread/INFO]: Saving and pausing game...
+[00:40:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
+[00:40:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
+[00:40:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
+[00:41:27] [Server thread/INFO]: Saving and pausing game...
+[00:41:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
+[00:41:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
+[00:41:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
+[00:41:28] [Server thread/INFO]: bippakun lost connection: 切断されました
+[00:41:28] [Server thread/INFO]: bippakun がゲームを退出しました
+[00:41:28] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[00:41:28] [Server thread/INFO]: Stopping server
+[00:41:28] [Server thread/INFO]: Saving players
+[00:41:28] [Server thread/INFO]: Saving worlds
+[00:41:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:overworld
+[00:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (わーるど): All chunks are saved
+[00:41:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_nether
+[00:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:41:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[わーるど]'/minecraft:the_end
+[00:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (わーるど): All chunks are saved
+[00:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:41:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:41:29] [Render thread/INFO]: Stopping!
